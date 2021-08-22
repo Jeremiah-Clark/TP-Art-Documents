@@ -1,6 +1,6 @@
 ## Graphics Standards
 
-### COLORS
+### COLORS 
 
 The colors you choose should be fun, comfortable, and inviting.
 Colors that are too aggressive, or that clash, will drive players away.
