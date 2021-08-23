@@ -38,6 +38,6 @@ This text should not get in the way of the action.
 To keep players motivated, failure should be celebrated as well.
 
 - **Make it Entertaining**: Make it funny or dramatic.
-    ![](_attachments/IMG_69D9720449FE-1%20CROP.jpeg)
+    ![](_attachments/1a68e576eee3ac9911ac62579c75234f.jpeg)
 
 - **Be encouraging**: **Never make the player feel bad about failure.**
