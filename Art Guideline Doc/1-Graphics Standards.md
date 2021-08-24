@@ -6,25 +6,25 @@ The colors you choose should be fun, comfortable, and inviting.
 Colors that are too aggressive, or that clash, will drive players away.
 
 **Improving Colors:**
-![](_attachments/6064f753f97f64c4327b44ee7bcb8b7a.png)
+![](_attachments/color%20improvement.png)
 
 ##### Forbidden Colors
 
-![](_attachments/a0cbbb2ef40b8d7ddfac3f59969b5e51.png)
+![](_attachments/black_and_white.png)
 
 Pure black and pure white can be used sparingly in UI graphics.
 
 ### SHAPE LANGUAGE
 
 Second only to color is shape language.
-![](_attachments/f0cfc3bbd86894c58d8313a5d8d1bd07.png)
+![](_attachments/shape_language.png)
 
 **Once your shape language is defined, stick to it.**
 
 ### CONTRAST
 
 Contrast identifies points of interest, and separates active and passive elements.
-![](_attachments/d2b12d4dafa634cc5df80fd3d92daa2e.png)
+![](_attachments/contrast_colors.png)
 
 These are only guidelines, **most important is to make your game readable.**
 
@@ -32,12 +32,12 @@ These are only guidelines, **most important is to make your game readable.**
 
 Take a screenshot or render and make it black and white. 
 Study how distinct and readable objects are, especially against their backgrounds.
-![](_attachments/52629c1d504b126dc8b5116bbf8224e8.png)
+![](_attachments/b&w_test.png)
 
 ### SHADERS
 
 **Don’t use the Unity Standard Shader:**
-![](_attachments/233ac12c99a6567076f4295520bff208.png)
+![](_attachments/shader.png)
 
 - **Minimalist - Lowpoly Flat/Gradient Shader**: A very lightweight shader
 - **Toony Colors Pro 2**: More complicated with more features than Minimalist
@@ -56,11 +56,11 @@ Unlit shaders with no shadows look flat, so do this strategically.
 #### Lights
 
 The only real light in a scene should be a directional light, which is added to a new scene by default.
-![](_attachments/7042e3b9f9f88869343536e338ef4f63.png)
+![](_attachments/light_and_shadows.png)
 
 #### Shadows
 
-![](_attachments/6ff4428b73e8ed3c67feb6720706586c.png)
+![](_attachments/shadow_opacity.png)
 
 ### PARTICLES & FX
 
