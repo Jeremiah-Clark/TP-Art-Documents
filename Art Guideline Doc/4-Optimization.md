@@ -7,17 +7,17 @@ Polygons are what is rendered to the screen.
 
 #### Triangulation
 
-Polygon counts in Unity are always measured in tris, and Unity will split any imported model into tris (possibly not very well, you may have to triangulate the mesh yourself).
+Polygon counts in Unity are always measured in tris (triangular faces), and Unity will split any imported model into tris.
+Unity may not do this very well, in which case you may have to triangulate the mesh yourself.
 
-_NOTE: Triangulated models are harder to edit, so save an un-triangulated copy first._
+**NOTE**: Triangulated models are harder to edit, so save an un-triangulated copy first.
 
 #### Polycount
 
-To avoid performance problems, limit the scene's overall polycount by making the assets as efficiently as possible. 
-Target poly counts change depending on size, distance, and importance.
+To avoid performance problems, limit the scene's overall polygon count by making the assets as efficiently as possible. 
+The target polycount of an asset will change depending on size, distance, and importance.
 
-**Recommended Object Polycounts:**
-
+##### Recommended Polycounts:
 - **Small/Distant/Tertiary Props** \= 100-300 tris
 - **Medium/Secondary Props** \= 400-800 tris
 - **Large/Close/Hero Props** \= 900-1500 tris
@@ -34,11 +34,10 @@ For this reason, images must be optimized.
 
 #### Square, Power of 2
 
-All images used in a game need to **square with pixel dimensions in powers of 2**. 
+All images used in a game need to be **square, with pixel dimensions in powers of 2**. 
 In other words, 2x2, 4x4, 8x8, 16x16, 32x32, and so on (doubles each time).
 
 ##### Size Recommendations:
-
 - **32x32** - When using a solid color, it’s possible to go very small; 32x32 is fine.
 - **64x64** - When using color indexes, 64 pixels is the smallest recommended size.
 - **128x128, 256x256, 512x512** - Most textures should be one of these sizes unless they are very detailed.

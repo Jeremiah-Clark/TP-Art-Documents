@@ -3,6 +3,7 @@
 ### WATER
 
 Including water in a game can increase a game’s performance by 20%.
+
 ![](_attachments/add_water.png)
 
 **Attractive Water is…**
@@ -14,9 +15,11 @@ Including water in a game can increase a game’s performance by 20%.
 ### SKY
 
 Pay attention to your sky. An ugly sky can harm a game’s KPIs.
+
 ![](_attachments/sky.png)
 
 **Sky Colors**:
+
 ![](_attachments/sky_colors.png)
 
 ### CELEBRATE SUCCESS
@@ -31,13 +34,13 @@ You may also include some reward type (for example, in-game currency, decorative
 
 **Pop-up Text**: Mid-game, text pop-ups can indicate a notable success. 
 For instance, “COMBO x3”, “COMBO x4”, and so on. 
-This text should not get in the way of the action.
+This text should fade quickly and not get in the way of the action.
 
 ### CELEBRATE FAILURE, TOO
 
 To keep players motivated, failure should be celebrated as well.
 
-- **Make it Entertaining**: Make it funny or dramatic.
-    ![](_attachments/fail_celebration.jpeg)
-
+- **Make it Entertaining**: Making failure funny or dramatic will keep the player invested rather than frustrated.
 - **Be encouraging**: **Never make the player feel bad about failure.**
+
+    ![](_attachments/fail_celebration.jpeg)
